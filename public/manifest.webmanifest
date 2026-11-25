@@ -1,0 +1,16 @@
+{
+  "name": "PureCity AI — Urban Air Quality Assistant",
+  "short_name": "PureCity AI",
+  "description": "Cleaner Cities. Smarter Air. Healthier Lives. AI-powered urban air quality monitoring, hotspot mapping, and personalized health guidance.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8faf9",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
